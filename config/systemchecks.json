@@ -1,0 +1,55 @@
+{
+    "checks": [
+        {
+            "key": "VirtualizationEnabled",
+            "expectedValue": true,
+            "fixable": false,
+            "enabled": true,
+            "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/virtualization"
+        },
+        {
+            "key": "SecureBootDisabled",
+            "expectedValue": true,
+            "fixable": false,
+            "enabled": true,
+            "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/secure-boot"
+        },
+        {
+            "key": "HyperVDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        },
+        {
+            "key": "MemoryIntegrityDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": false
+        },
+        {
+            "key": "DriverBlocklistDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        },
+        {
+            "key": "Windows11_24H2",
+            "expectedValue": true,
+            "fixable": false,
+            "enabled": true,
+            "tutorialLink": "https://www.microsoft.com/fr-fr/software-download/windows10"
+        },
+        {
+            "key": "WindowsDefenderDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        },
+        {
+            "key": "RiotVanguardInactive",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        }
+    ]
+}
