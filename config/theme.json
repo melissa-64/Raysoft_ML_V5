@@ -25,7 +25,7 @@
         },
         "border": {
             "radius": {
-                "small": "6px",
+                "small": "8px",
                 "medium": "8px",
                 "large": "12px"
             }
