@@ -26,7 +26,7 @@
         "border": {
             "radius": {
                 "small": "6px",
-                "medium": "10px",
+                "medium": "8px",
                 "large": "12px"
             }
         },
