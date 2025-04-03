@@ -1,112 +1,68 @@
 {
     "loaders": [
         {
-            "id": "Loader 1",
-            "name": "Loader 1",
-            "categoryId": "r6",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "id": "Ghost External Chair",
+            "name": "Ghost External Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Ghost_External.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/Ghost_external.gif"
         },
         {
-            "id": "Loader 2",
-            "name": "Loader 2",
-            "categoryId": "fp",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "id": "Unlock All",
+            "name": "Unlock All",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/mys8gG0e.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/ua.gif"
         },
         {
-            "id": "Loader 3",
-            "name": "Loader 3",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "id": "UAV",
+            "name": "UAV",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Raysoft_UAV_V2.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/uav_BO6.gif"
         },
         {
-            "id": "Loader 4",
-            "name": "Loader 4",
-            "categoryId": "h1z1",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "id": "DMA Chair",
+            "name": "DMA Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/DMA_Chair.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/DMA_Cod_Chair.gif"
+        },
+        {
+            "id": "External Chair",
+            "name": "External Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/External_Chair.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/fb5cea64-81a1-43d9-0f26-6326ce6b5c00/public"
         },
         {
-            "id": "Loader 5",
-            "name": "Loader 5",
-            "categoryId": "hll",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "id": "VPN",
+            "name": "VPN",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Others_Tools/Ray-VPN.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/6c1af281-5c0c-4d42-7231-89e35c979700/public"
+        },
+        {
+            "id": "AFK Tool",
+            "name": "AFK Tool",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Others_Tools/AFKTool_V2.8.4.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/8c8917ee-8536-474e-8d7c-dbec544f7400/public"
         },
         {
-            "id": "Loader 6",
-            "name": "Loader 6",
-            "categoryId": "dl",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 7",
-            "name": "Loader 7",
-            "categoryId": "df",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 8",
-            "name": "Loader 8",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 9",
-            "name": "Loader 9",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 10",
-            "name": "Loader 10",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 2",
-            "name": "Loader 2",
-            "categoryId": "mw2",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "offline",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 3",
-            "name": "Loader 3",
-            "categoryId": "cs2",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "MW1 Chair",
+            "name": "MW1 Chair",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Others_Tools/MW1_Chair.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/64bc0ebc-66e2-4aaa-d8d4-0759c17aab00/public"
         }
     ]
 }
