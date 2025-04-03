@@ -5,7 +5,7 @@
             "expectedValue": true,
             "fixable": false,
             "enabled": true,
-            "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/virtualization"
+            "tutorialLink": "https://www.ninjaone.com/blog/how-to-enable-cpu-virtualization-in-your-computer-bios/"
         },
         {
             "key": "SecureBootDisabled",
