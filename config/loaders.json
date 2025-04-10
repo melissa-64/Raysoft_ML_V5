@@ -21,9 +21,10 @@
             "id": "UAV",
             "name": "UAV",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Raysoft_UAV_V2.exe",
-            "status": "updating",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/uav_BO6.gif"
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/UAV_V3.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/uav_BO6.gif",
+            "productUrl": "https://raysoft.store/product/uav-tool"
         },
         {
             "id": "DMA Chair",
