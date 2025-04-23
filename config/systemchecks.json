@@ -24,7 +24,7 @@
             "key": "MemoryIntegrityDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
@@ -36,7 +36,7 @@
             "key": "Windows11_24H2",
             "expectedValue": true,
             "fixable": false,
-            "enabled": true,
+            "enabled": false,
             "tutorialLink": "https://www.microsoft.com/fr-fr/software-download/windows10"
         },
         {
