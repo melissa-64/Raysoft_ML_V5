@@ -4,7 +4,7 @@
             "key": "VirtualizationEnabled",
             "expectedValue": true,
             "fixable": false,
-            "enabled": true,
+            "enabled": false,
             "tutorialLink": "https://www.ninjaone.com/blog/how-to-enable-cpu-virtualization-in-your-computer-bios/"
         },
         {
