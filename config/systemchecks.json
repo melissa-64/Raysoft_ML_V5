@@ -18,7 +18,7 @@
             "key": "HyperVDisabled",
             "expectedValue": false,
             "fixable": true,
-            "enabled": true
+            "enabled": false
         },
         {
             "key": "MemoryIntegrityDisabled",
