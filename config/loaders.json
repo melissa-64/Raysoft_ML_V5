@@ -1,6 +1,15 @@
 {
     "loaders": [
         {
+            "id": "Fecurity Chair",
+            "name": "Fecurity Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/LAUNCHER.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1120519834833272863/Fecurity-Chair.gif",
+            "productUrl": "https://raysoft.store/product/fecurity-chair"
+        },
+        {
             "id": "Ghost External Chair",
             "name": "Ghost External Chair",
             "categoryId": "bo6",
@@ -71,15 +80,6 @@
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/64bc0ebc-66e2-4aaa-d8d4-0759c17aab00/public",
             "productUrl": "https://raysoft.store/product/mw1-chair"
-        },
-        {
-            "id": "Fecurity Chair",
-            "name": "Fecurity Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/LAUNCHER.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1120519834833272863/Fecurity-Chair.gif",
-            "productUrl": "https://raysoft.store/product/fecurity-chair"
         }
     ]
 }
