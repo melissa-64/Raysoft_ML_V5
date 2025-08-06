@@ -4,16 +4,16 @@
             "id": "Fecurity Chair",
             "name": "Fecurity Chair",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/LAUNCHER.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/LAUNCHER.exe",
             "status": "updating",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Fecurity-Chair.gif",
+            "imageUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Fecurity-Chair.gif",
             "productUrl": "https://raysoft.store/product/fecurity-chair"
         },
         {
             "id": "Ghost External Chair",
             "name": "Ghost External Chair",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Ghost_16-07.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Ghost_16-07.exe",
             "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/Ghost_external.gif",
             "productUrl": "https://raysoft.store/product/ghost-external-chair"
@@ -22,16 +22,16 @@
             "id": "Unlock All",
             "name": "Unlock All",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Client.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Client.exe",
             "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/ua.gif",
-            "productUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/C1aSz2BUIE8l.exe"
+            "productUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/C1aSz2BUIE8l.exe"
         },
         {
             "id": "UAV",
             "name": "UAV",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/UAV_V3.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/UAV_V3.exe",
             "status": "offline",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/uav_BO6.gif",
             "productUrl": "https://raysoft.store/product/uav-tool"
@@ -40,7 +40,7 @@
             "id": "DMA Chair",
             "name": "DMA Chair",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/DLoader15.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/DLoader15.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/DMA_Cod_Chair.gif",
             "productUrl": "https://raysoft.store/product/dma-chair"
@@ -49,7 +49,7 @@
             "id": "VPN",
             "name": "VPN",
             "categoryId": "others",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/VPN.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Others_Tools/VPN.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/6c1af281-5c0c-4d42-7231-89e35c979700/public",
             "productUrl": "https://raysoft.store/product/vpn"
@@ -58,7 +58,7 @@
             "id": "AFK Tool",
             "name": "AFK Tool",
             "categoryId": "others",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/AFKTool_V3.2.2.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/AFKTool_V3.2.2.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/8c8917ee-8536-474e-8d7c-dbec544f7400/public",
             "productUrl": "https://raysoft.store/product/afk-tool"
@@ -67,7 +67,7 @@
             "id": "MW1 Chair",
             "name": "MW1 Chair",
             "categoryId": "mw19",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/Morpheus_v1.01.exe",
+            "downloadUrl": "https://api.api.cloud.anewvision.fr/1120519834833272863/Others_Tools/Morpheus_v1.01.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/64bc0ebc-66e2-4aaa-d8d4-0759c17aab00/public",
             "productUrl": "https://raysoft.store/product/mw1-chair"
