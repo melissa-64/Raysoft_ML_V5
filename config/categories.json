@@ -10,6 +10,15 @@
       "isDefault": true
     },
     {
+      "id": "bo7",
+      "name": "Black Ops 7",
+      "brandColors": {
+        "primary": "#f96800"
+      },
+      "logoUrl": "https://api.cloud.anewvision.fr/934774600171135007/ML/bo7_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
       "id": "mw3",
       "name": "MW3",
       "brandColors": {
@@ -34,6 +43,15 @@
         "primary": "#47a6ff"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw19_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "fc26",
+      "name": "FC 26",
+      "brandColors": {
+        "primary": "#158791"
+      },
+      "logoUrl": "https://api.cloud.anewvision.fr/934774600171135007/ML/fc26_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -118,6 +136,15 @@
       "isDefault": true
     },
     {
+      "id": "dz",
+      "name": "DayZ",
+      "brandColors": {
+        "primary": "#302f2d"
+      },
+      "logoUrl": "https://api.cloud.anewvision.fr/934774600171135007/ML/dz_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
       "id": "df",
       "name": "Delta Force",
       "brandColors": {
@@ -154,15 +181,6 @@
       "isDefault": true
     },
     {
-      "id": "sd",
-      "name": "Spectre Divide",
-      "brandColors": {
-        "primary": "#ffcb00"
-      },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/spectre_ml_icon_v1.png",
-      "isDefault": true
-    },
-    {
       "id": "h1z1",
       "name": "H1Z1",
       "brandColors": {
@@ -178,15 +196,6 @@
         "primary": "#3ff4ff"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/bloodstrike_ml_icon_v1.png",
-      "isDefault": true
-    },
-    {
-      "id": "cm",
-      "name": "Combat Master",
-      "brandColors": {
-        "primary": "#d6d6d6"
-      },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/combatmaster_ml_icon_v1.png",
       "isDefault": true
     },
     {
