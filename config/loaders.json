@@ -90,7 +90,7 @@
         {
             "id": "blitzz-external",
             "name": "Blitzz External",
-            "categoryId": "BO7",
+            "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Loader.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/Blitz-External.gif",
