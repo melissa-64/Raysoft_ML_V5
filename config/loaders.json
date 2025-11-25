@@ -86,6 +86,21 @@
                 "requirements": []
             },
             "contentType": "executable"
+        },
+        {
+            "id": "blitzz-external",
+            "name": "Blitzz External",
+            "categoryId": "BO7",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Loader.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/Blitz-External.gif",
+            "productUrl": "",
+            "instructions": "https://docs.raysoft.store/raysoft/espanol/3.-instrucciones/bo7-or-wz-or-bo6-blitz-external.",
+            "contentType": "executable",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
