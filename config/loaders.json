@@ -19,6 +19,12 @@
                         "fixable": true
                     },
                     {
+                        "key": "RiotVanguard",
+                        "expectedState": false,
+                        "fixable": true,
+                        "tutorialLink": ""
+                    },
+                    {
                         "key": "Virtualization",
                         "expectedState": false,
                         "fixable": false,
