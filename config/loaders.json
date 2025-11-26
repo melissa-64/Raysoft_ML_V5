@@ -14,6 +14,11 @@
                 "enabled": true,
                 "requirements": [
                     {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
                         "key": "Virtualization",
                         "expectedState": false,
                         "fixable": false,
