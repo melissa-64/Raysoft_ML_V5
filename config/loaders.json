@@ -14,7 +14,7 @@
                 "enabled": true,
                 "requirements": [
                     {
-                        "key": "MemoryIntegrity",
+                        "key": "HyperV",
                         "expectedState": false,
                         "fixable": true
                     },
@@ -22,12 +22,6 @@
                         "key": "RiotVanguard",
                         "expectedState": false,
                         "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
                         "tutorialLink": ""
                     },
                     {
