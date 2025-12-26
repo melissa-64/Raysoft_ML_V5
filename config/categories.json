@@ -1,21 +1,21 @@
 {
   "categories": [
     {
-      "id": "bo6",
-      "name": "Black Ops 6",
-      "brandColors": {
-        "primary": "#f96800"
-      },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/bo6_ml_icon_v1.png",
-      "isDefault": true
-    },
-    {
       "id": "bo7",
       "name": "Black Ops 7",
       "brandColors": {
         "primary": "#f96800"
       },
       "logoUrl": "https://api.cloud.anewvision.fr/934774600171135007/ML/bo7_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "bo6",
+      "name": "Black Ops 6",
+      "brandColors": {
+        "primary": "#f96800"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/bo6_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -209,3 +209,4 @@
     }
   ]
 }
+
