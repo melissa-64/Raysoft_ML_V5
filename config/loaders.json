@@ -132,7 +132,7 @@
         {
             "id": "arc-riders",
             "name": "ARC Riders",
-            "categoryId": "Others",
+            "categoryId": "others",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/private.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/ARC_External-Chair.gif",
