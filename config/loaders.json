@@ -142,6 +142,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "fornite-chair",
+            "name": "Fornite Chair",
+            "categoryId": "Others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/private.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/FORNITE.gif",
+            "productUrl": "https://raysoft.store/product/fornite-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
