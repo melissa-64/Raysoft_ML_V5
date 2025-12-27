@@ -128,6 +128,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "arc-riders",
+            "name": "ARC Riders",
+            "categoryId": "Others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/private.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/ARC_External-Chair.gif",
+            "productUrl": "https://raysoft.store/product/arc-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
