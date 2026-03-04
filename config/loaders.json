@@ -98,6 +98,20 @@
             "contentType": "executable"
         },
         {
+            "id": "tpm-spoofer-v2",
+            "name": "Spoofer TPM V2",
+            "categoryId": "bo7",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/TPM_Spoofer_V2.exe",
+            "status": "offline",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/v2.gif",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "orange-chair",
             "name": "Orange Chair",
             "categoryId": "bo7",
@@ -147,20 +161,6 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/FORNITE.gif",
             "productUrl": "https://raysoft.store/product/fornite-chair",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
-            "id": "tpm-spoofer-v2",
-            "name": "Spoofer TPM V2",
-            "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/TPM_Spoofer_V2.exe",
-            "status": "offline",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/v2.gif",
-            "productUrl": "",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
