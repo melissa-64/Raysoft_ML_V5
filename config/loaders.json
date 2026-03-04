@@ -156,7 +156,7 @@
         {
             "id": "tpm-spoofer-v2",
             "name": "Spoofer TPM V2",
-            "categoryId": "Others",
+            "categoryId": "bo7",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/TPM_Spoofer_V2.exe",
             "status": "offline",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/v2.gif",
