@@ -1,3 +1,20 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "announcement",
+            "title": "New Loaders",
+            "message": "Added ARC External vip + Spoofer and Spoofer TPM V2",
+            "startDate": "2026-03-04T10:35:40Z",
+            "endDate": "2026-03-04T11:35:40Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Okey",
+                    "url": ""
+                }
+            }
+        }
+    ]
 }
