@@ -126,6 +126,20 @@
             }
         },
         {
+            "id": "arc-riders-external-vip-+-spoofer",
+            "name": "ARC Riders External VIP + Spoofer",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/ARC_VIP.exe",
+            "status": "offline",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/arcext.gif",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "fornite-chair",
             "name": "Fornite Chair",
             "categoryId": "others",
@@ -146,20 +160,6 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/TPM_Spoofer_V2.exe",
             "status": "offline",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/v2.gif",
-            "productUrl": "",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
-            "id": "arc-riders-external-vip-+-spoofer",
-            "name": "ARC Riders External VIP + Spoofer",
-            "categoryId": "others",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/ARC_VIP.exe",
-            "status": "offline",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/arcext.gif",
             "productUrl": "",
             "instructions": "",
             "systemRequirement": {
