@@ -113,7 +113,7 @@
         },
         {
             "id": "arc-riders",
-            "name": "ARC Riders",
+            "name": "ARC Riders External",
             "categoryId": "others",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
             "status": "online",
