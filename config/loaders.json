@@ -138,6 +138,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "tpm-spoofer-v2",
+            "name": "TPM Spoofer V2",
+            "categoryId": "Others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/TPM_Spoofer_V2.exe",
+            "status": "offline",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/v2.gif",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
