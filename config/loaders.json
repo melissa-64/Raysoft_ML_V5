@@ -42,6 +42,20 @@
             "productUrl": "https://raysoft.store/product/dma-chair"
         },
         {
+            "id": "tpm-spoofer-v2",
+            "name": "Spoofer TPM V2",
+            "categoryId": "bo7",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/TPM_Spoofer_V2.exe",
+            "status": "offline",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/v2.gif",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "spoofer-tpm",
             "name": "Spoofer TPM",
             "categoryId": "bo7",
@@ -96,20 +110,6 @@
                 "requirements": []
             },
             "contentType": "executable"
-        },
-        {
-            "id": "tpm-spoofer-v2",
-            "name": "Spoofer TPM V2",
-            "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/TPM_Spoofer_V2.exe",
-            "status": "offline",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/v2.gif",
-            "productUrl": "",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
         },
         {
             "id": "orange-chair",
