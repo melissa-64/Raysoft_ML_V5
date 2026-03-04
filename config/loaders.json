@@ -42,6 +42,20 @@
             "productUrl": "https://raysoft.store/product/dma-chair"
         },
         {
+            "id": "spoofer-tpm",
+            "name": "Spoofer TPM",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/SpooferTPM.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/tpm.gif",
+            "productUrl": "https://raysoft.store/product/tpm-spoofer",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "VPN",
             "name": "VPN",
             "categoryId": "others",
@@ -82,20 +96,6 @@
                 "requirements": []
             },
             "contentType": "executable"
-        },
-        {
-            "id": "spoofer-tpm",
-            "name": "Spoofer TPM",
-            "categoryId": "others",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/SpooferTPM.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/tpm.gif",
-            "productUrl": "https://raysoft.store/product/tpm-spoofer",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
         },
         {
             "id": "orange-chair",
