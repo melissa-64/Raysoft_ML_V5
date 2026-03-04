@@ -11,8 +11,12 @@
             "priority": "normal",
             "cta": {
                 "primary": {
-                    "text": "Okey",
-                    "url": ""
+                    "text": "Purschase ARC cheat",
+                    "url": "https://raysoft.store"
+                },
+                "secondary": {
+                    "text": "Purschase Spoofer TPM V2",
+                    "url": "https://raysoft.store/product/tpm-spoofer-v2"
                 }
             }
         }
