@@ -97,20 +97,6 @@
             "productUrl": "https://raysoft.store/product/mw1-chair"
         },
         {
-            "id": "arc-riders",
-            "name": "ARC Riders External",
-            "categoryId": "others",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/ARC_External-Chair.gif",
-            "productUrl": "https://raysoft.store/product/arc-chair",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
             "id": "arc-riders-external-vip-+-spoofer",
             "name": "ARC Riders External VIP + Spoofer",
             "categoryId": "others",
@@ -118,6 +104,20 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/arcext.gif",
             "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
+            "id": "arc-riders",
+            "name": "ARC Riders External",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/ARC_External-Chair.gif",
+            "productUrl": "https://raysoft.store/product/arc-chair",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
