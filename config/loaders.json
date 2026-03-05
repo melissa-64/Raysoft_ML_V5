@@ -111,6 +111,20 @@
             }
         },
         {
+            "id": "arc-riders-external-vip-+-spoofer",
+            "name": "ARC Riders External VIP + Spoofer",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/ARC_VIP.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/arcext.gif",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "battlefield-cheat",
             "name": "Battlefied 6 Cheat",
             "categoryId": "others",
@@ -133,20 +147,6 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/ORANGE-CHAIR.gif",
             "productUrl": "https://raysoft.store/product/ORANGE-CHAIR",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
-            "id": "arc-riders-external-vip-+-spoofer",
-            "name": "ARC Riders External VIP + Spoofer",
-            "categoryId": "others",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/ARC_VIP.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/arcext.gif",
-            "productUrl": "",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
