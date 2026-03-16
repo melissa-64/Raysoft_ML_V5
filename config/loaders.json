@@ -56,6 +56,20 @@
             }
         },
         {
+            "id": "paragon-external",
+            "name": "Paragon External",
+            "categoryId": "bo7",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Paragon_External.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Paragon-External.gif",
+            "productUrl": "https://raysoft.store/product/paragon-external",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "spoofer-tpm",
             "name": "Spoofer TPM",
             "categoryId": "bo7",
@@ -147,20 +161,6 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/FORNITE.gif",
             "productUrl": "https://raysoft.store/product/fornite-chair",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
-            "id": "paragon-external",
-            "name": "Paragon External",
-            "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Paragon_External.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Paragon-External.gif",
-            "productUrl": "https://raysoft.store/product/paragon-external",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
