@@ -15,38 +15,6 @@
             }
         },
         {
-            "id": "blitzz-external",
-            "name": "Blitz External",
-            "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Loader22_04.exe",
-            "status": "custom",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/Blitz-External.gif",
-            "productUrl": "https://raysoft.store/product/blitz-external",
-            "instructions": "",
-            "contentType": "executable",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "HyperV",
-                        "expectedState": true,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
-        },
-        {
             "id": "DMA Chair",
             "name": "DMA Chair",
             "categoryId": "bo7",
