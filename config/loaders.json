@@ -124,7 +124,7 @@
         {
             "id": "inf-spoofer",
             "name": "INF Spoofer",
-            "categoryId": "BO6",
+            "categoryId": "bo7",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/INF_Spoofer.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/INF-SPOOFER.gif",
