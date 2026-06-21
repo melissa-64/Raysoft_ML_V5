@@ -138,7 +138,7 @@
         {
             "id": "tpm-spoofer-v3",
             "name": "TPM Spoofer V3",
-            "categoryId": "BO7",
+            "categoryId": "bo7",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/TPM_Spoofer_V3.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/V3.gif",
