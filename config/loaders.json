@@ -148,6 +148,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "apex-external",
+            "name": "Apex External",
+            "categoryId": "Others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Apex_Chair.png",
+            "productUrl": "https://raysoft.store/product/apex-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
