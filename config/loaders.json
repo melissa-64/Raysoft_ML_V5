@@ -134,6 +134,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "rust-external",
+            "name": "Rust External",
+            "categoryId": "Others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/rust_chair.png",
+            "productUrl": "https://raysoft.store/product/rust-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
