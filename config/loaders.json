@@ -176,6 +176,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "rs6-chair",
+            "name": "RS6 Chair",
+            "categoryId": "Others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/RS6_Chair.png",
+            "productUrl": "https://raysoft.store/product/rs6-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
