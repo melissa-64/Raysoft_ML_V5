@@ -162,6 +162,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "dayz-chair",
+            "name": "Dayz Chair",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/DayZ_Chair.png",
+            "productUrl": "https://raysoft.store/product/dayz-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
