@@ -180,7 +180,7 @@
         {
             "id": "rs6-chair",
             "name": "RS6 Chair",
-            "categoryId": "Others",
+            "categoryId": "others",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/RS6_Chair.png",
