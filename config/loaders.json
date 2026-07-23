@@ -152,7 +152,7 @@
         {
             "id": "apex-external",
             "name": "Apex External",
-            "categoryId": "Others",
+            "categoryId": "others",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/launcher.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Apex_Chair.png",
