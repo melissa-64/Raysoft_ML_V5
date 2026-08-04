@@ -1,6 +1,20 @@
 {
     "loaders": [
         {
+            "id": "nebula-external",
+            "name": "Nebula External",
+            "categoryId": "bo7",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Nebula.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/nebula.gif",
+            "productUrl": "https://raysoft.store/product/nebula",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "tpm-spoofer-v3-(alternative)",
             "name": "TPM Spoofer V3 (Alternative)",
             "categoryId": "bo7",
@@ -199,20 +213,6 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/RS6_Chair.png",
             "productUrl": "https://raysoft.store/product/rs6-chair",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
-            "id": "nebula-external",
-            "name": "Nebula External",
-            "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Nebula.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/nebula.gif",
-            "productUrl": "https://raysoft.store/product/nebula",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
