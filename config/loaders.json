@@ -2,12 +2,12 @@
     "loaders": [
         {
             "id": "nebula-external",
-            "name": "Nebula External",
+            "name": "BO7 External",
             "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Nebula.exe",
-            "status": "updating",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Files_Loader/nebula.gif",
-            "productUrl": "https://raysoft.store/product/nebula",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/External_BO7.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/BO7-EXTERNAL.gif",
+            "productUrl": "https://raysoft.store/product/bo7-external",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
