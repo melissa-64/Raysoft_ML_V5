@@ -43,20 +43,6 @@
             }
         },
         {
-            "id": "paragon-external",
-            "name": "Paragon External",
-            "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/paragon_seedTPM.exe",
-            "status": "updating",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/Paragon-External.gif",
-            "productUrl": "https://raysoft.store/product/paragon-external",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
             "id": "DMA Chair",
             "name": "DMA Chair",
             "categoryId": "bo7",
