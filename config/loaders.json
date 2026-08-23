@@ -4,7 +4,7 @@
             "id": "nebula-external",
             "name": "BO7 External",
             "categoryId": "bo7",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/External_BO7.vmp.exe",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/External_BO7.vmp.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/BO7-EXTERNAL.gif",
             "productUrl": "https://raysoft.store/product/bo7-external",
