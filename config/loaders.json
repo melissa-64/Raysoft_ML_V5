@@ -190,6 +190,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "Raysoft-AFK-Tool-Ultimate.exe",
+            "name": "AFK Tool Ultimate",
+            "categoryId": "Others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/Raysoft-AFK-Tool-Ultimate.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/afk-ultimate.gif",
+            "productUrl": "https://raysoft.store/product/afk-tool-ultimate",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
