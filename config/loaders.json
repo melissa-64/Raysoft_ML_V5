@@ -52,6 +52,20 @@
             "productUrl": "https://raysoft.store/product/dma-chair"
         },
         {
+            "id": "Raysoft-AFK-Tool-Ultimate.exe",
+            "name": "\ud83e\udd16 AFK Tool Ultimate",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/Raysoft-AFK-Tool-Ultimate.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/afk-ultimate.gif",
+            "productUrl": "https://raysoft.store/product/afk-tool-ultimate",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
+        },
+        {
             "id": "VPN",
             "name": "VPN",
             "categoryId": "others",
@@ -185,20 +199,6 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/RS6_Chair.png",
             "productUrl": "https://raysoft.store/product/rs6-chair",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
-            "id": "Raysoft-AFK-Tool-Ultimate.exe",
-            "name": "\ud83e\udd16 AFK Tool Ultimate",
-            "categoryId": "others",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/Raysoft-AFK-Tool-Ultimate.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/afk-ultimate.gif",
-            "productUrl": "https://raysoft.store/product/afk-tool-ultimate",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
