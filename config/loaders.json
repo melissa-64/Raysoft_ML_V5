@@ -52,11 +52,11 @@
             "productUrl": "https://raysoft.store/product/dma-chair"
         },
         {
-            "id": "Raysoft-AFK-Tool-UltimateV1.0.8.exe",
-            "name": "\ud83e\udd16 AFK Tool Ultimate",
+            "id": "Raysoft-AFK-Tool-Ultimate",
+            "name": "Raysoft-AFK-Tool-Ultimate-V1.0.8",
             "categoryId": "others",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Others_Tools/Raysoft-AFK-Tool-Ultimate.exe",
-            "status": "offline",
+            "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/1120519834833272863/afk-ultimate.gif",
             "productUrl": "https://raysoft.store/product/afk-tool-ultimate",
             "instructions": "",
