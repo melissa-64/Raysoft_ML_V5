@@ -2,7 +2,7 @@
     "loaders": [
         {
             "id": "nebula-external",
-            "name": "BO7 External",
+            "name": "COD External",
             "categoryId": "bo7",
             "downloadUrl": "https://api.cloud.anewvision.fr/1120519834833272863/Black_Ops_6/cod_external.exe",
             "status": "online",
